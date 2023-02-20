@@ -1,6 +1,6 @@
 # EECS348_Lab3
 ## Output for Cprogram1
-
+```
 Monthly sales report for 2022:
 
 Month           Sales
@@ -49,3 +49,4 @@ February        $40112.00
 May             $37904.67
 April           $37820.88
 January         $23458.01
+```
